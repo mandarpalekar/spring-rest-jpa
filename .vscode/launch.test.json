@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "spring-rest-jpa",
+                "projectName": "spring-rest-jpa",
+                "workingDirectory": "/home/mandarpalekar/git/spring-rest-jpa",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "spring-rest-jpa",
+                "projectName": "spring-rest-jpa",
+                "workingDirectory": "/home/mandarpalekar/git/spring-rest-jpa",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}

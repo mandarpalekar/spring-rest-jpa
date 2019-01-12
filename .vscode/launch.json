@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SpringRestJPAApplication",
+            "request": "launch",
+            "mainClass": "com.example.demo.springrestjpa.SpringRestJPAApplication",
+            "projectName": "spring-rest-jpa"
+        }
+    ]
+}
